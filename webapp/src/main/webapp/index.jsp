@@ -6,6 +6,7 @@
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <hr>
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
@@ -30,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Sajan Sheela and  friend  Happy Learning </h1>
+   <h1> Thankyou, David and  Sheela and  friend  Happy Learning </h1>
 
   
 </form>
